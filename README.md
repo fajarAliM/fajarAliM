@@ -22,10 +22,10 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-    </details>
+</details>
 
-    <details open>
-        <summary>Frameworks:</summary>
+<details open>
+    <summary>Frameworks:</summary>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badlogo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badlogo=angular&logoColor=white)
