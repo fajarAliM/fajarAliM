@@ -33,10 +33,8 @@
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badlogo=nextdotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badlogo=nuxtdotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badlogo=gatsby&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563Dstyle=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badlogo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badlogo=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badlogo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404Dstyle=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badlogo=graphql&logoColor=white)
 </div>
