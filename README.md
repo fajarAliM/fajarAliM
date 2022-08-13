@@ -2,9 +2,9 @@
     style="width: 100%; position: relative; background-size: cover; height: 550px; padding-top: 80px; display: flex; flex-direction: column; align-items: center;">
     <div style="width: 70%;">
         <h2 align="center" style="color: #fff;">Hi, everyone👋, I'm Fajar Ali</h1>
-            <h1 style="color : #fff" align="center">A Full-Stack React and JavaScript Developer</h3>
+            <h1 style="color : #fff" align="center">A React and JavaScript, TypeScript Developer</h3>
                 <h4 style="color: #fff;">
-                    This is Fajar, a high-skilled and experienced software developer who is specialized in modern JavaScript frameworks such as React, React Native, Angular, Vue and Node.js using JavaScript, TypeScript and latest ECMAScript.
+                    I am a high-skilled and experienced software developer who is specialized in modern JavaScript frameworks such as React, React Native, Angular, Vue and Node.js with JavaScript, TypeScript and latest ECMAScript.
                     <br /><br />
                     While I am working on the projects, I know what and how should I do for the business success of final products and do my best.
                 </h4>
@@ -37,6 +37,4 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badlogo=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badlogo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badlogo=graphql&logoColor=white)
-
-![Snake animation](https://github.com/fajarAliM/fajarAliM/blob/output/github-contribution-grid-snake.svg)
 </div>
