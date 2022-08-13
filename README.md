@@ -3,13 +3,12 @@
     <div style="width: 70%;">
         <h2 align="center" style="color: #fff;">Hi, everyone👋, I'm Fajar Ali</h1>
             <h1 style="color : #fff" align="center">A React and JavaScript, TypeScript Developer</h3>
-        <img align="right" alt="GIF" src="techstack.gif" width="360px" style="margin-left: 50px;" />
+        <img align="right" alt="GIF" src="techstack.gif" width="250px" />
                 <h4 style="color: #fff;">
                     I am a high-skilled and experienced software developer who is specialized in modern JavaScript frameworks such as React, React Native, Angular, Vue and Node.js with JavaScript, TypeScript and latest ECMAScript.
                     <br /><br />
                     While I am working on the projects, I know what and how should I do for the business success of final products and do my best.
                 </h4>
-                <h4 style="font-style : italic; color: #fff;"></h4>
     </div>
 
 <div>
@@ -23,6 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+</details>
 
 <details open>
         <summary>Frameworks:</summary>
