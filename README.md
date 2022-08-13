@@ -11,11 +11,8 @@
                 <h4 style="font-style : italic; color: #fff;"></h4>
     </div>
 
-<div style="display: flex; align-items: flex-start">
-    <details open>
-        <summary>Technologies:</summary>
-
-
+<img align="right" alt="GIF" src="techstack.gif" width="360px"/>
+ ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badlogo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badlogo=angular&logoColor=white)
@@ -33,9 +30,5 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badlogo=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badlogo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badlogo=graphql&logoColor=white)
-
-</details>
-<img align="right" alt="GIF" src="techstack.gif" width="360px"/>
-</div>
     
 </div>
