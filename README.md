@@ -3,7 +3,7 @@
     <div style="width: 70%;">
         <h2 align="center" style="color: #fff;">Hi, everyone👋, I'm Fajar Ali</h1>
             <h1 style="color : #fff" align="center">A React and JavaScript, TypeScript Developer</h3>
-        <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
+        <img align="right" alt="GIF" src="techstack.gif" width="360px" style="margin-left: 50px;" />
                 <h4 style="color: #fff;">
                     I am a high-skilled and experienced software developer who is specialized in modern JavaScript frameworks such as React, React Native, Angular, Vue and Node.js with JavaScript, TypeScript and latest ECMAScript.
                     <br /><br />
