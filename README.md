@@ -11,6 +11,7 @@
                 <h4 style="font-style : italic; color: #fff;"></h4>
     </div>
 
+<div>
 ### Languages:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +34,8 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge=graphql&logoColor=white)
+</div>
+
 
 <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
     
