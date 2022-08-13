@@ -1,6 +1,7 @@
 <div
     style="width: 100%; position: relative; background-size: cover; height: 550px; padding-top: 80px; display: flex; flex-direction: column; align-items: center;">
     <div style="width: 70%;">
+        <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
         <h2 align="center" style="color: #fff;">Hi, everyone👋, I'm Fajar Ali</h1>
             <h1 style="color : #fff" align="center">A React and JavaScript, TypeScript Developer</h3>
                 <h4 style="color: #fff;">
@@ -12,7 +13,6 @@
     </div>
 
 <div>
-
 ### Languages:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +38,5 @@
 </div>
 
 
-<img align="right" alt="GIF" src="techstack.gif" width="360px"/>
     
 </div>
