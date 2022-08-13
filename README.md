@@ -25,16 +25,16 @@
 
 ### Frameworks:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge=vuedotjs&logoColor=4FC08D)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge=nuxtdotjs&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge=gatsby&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge=mui&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 </div>
 
 
