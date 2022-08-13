@@ -37,4 +37,6 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badlogo=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badlogo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badlogo=graphql&logoColor=white)
+
+![Snake animation](https://github.com/fajarAliM/fajarAliM/blob/output/github-contribution-grid-snake.svg)
 </div>
