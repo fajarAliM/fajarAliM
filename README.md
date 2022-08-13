@@ -1,9 +1,9 @@
 <div
     style="width: 100%; position: relative; background-size: cover; height: 550px; padding-top: 80px; display: flex; flex-direction: column; align-items: center;">
     <div style="width: 70%;">
-        <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
         <h2 align="center" style="color: #fff;">Hi, everyone👋, I'm Fajar Ali</h1>
             <h1 style="color : #fff" align="center">A React and JavaScript, TypeScript Developer</h3>
+        <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
                 <h4 style="color: #fff;">
                     I am a high-skilled and experienced software developer who is specialized in modern JavaScript frameworks such as React, React Native, Angular, Vue and Node.js with JavaScript, TypeScript and latest ECMAScript.
                     <br /><br />
@@ -13,6 +13,7 @@
     </div>
 
 <div>
+
 ### Languages:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +22,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
 
 ### Frameworks:
 
@@ -35,8 +35,7 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 </div>
 
-
-    
 </div>
