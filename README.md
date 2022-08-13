@@ -11,8 +11,6 @@
                 <h4 style="font-style : italic; color: #fff;"></h4>
     </div>
 
-<div style="display: flex; align-items: flex-start">
-
 ### Languages:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +35,5 @@
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge=graphql&logoColor=white)
 
 <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
-</div>
     
 </div>
