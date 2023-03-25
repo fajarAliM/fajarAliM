@@ -41,25 +41,11 @@
 </details>
 
 <div>
-<h1 align="center">GitHub Statistics 📃</h1>
-<!-- trophy stats -->
-  <div>
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
-  </div>  
-  <br/>
-  <!-- contribution graph -->
-  <div>
-  <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
-  </a>
-  </div>
-
   <!-- combined stats -->
   <br/>
 
   <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarAliM&theme=nord" />
   </div>
 
   <br/>
