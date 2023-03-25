@@ -45,6 +45,7 @@
   <br/>
 
   <div align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fajarAliM&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarAliM&theme=nord" />
   </div>
 
